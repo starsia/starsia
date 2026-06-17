@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## About Me 👋
 I'm a software engineer specialising in full-stack development, database systems and data engineering. I have an interest in distributed systems applications, streaming and database systems. 
 
 In my free time, I am sharpening my Linux skills and playing around with my own Virtual Private Server!
@@ -23,13 +23,18 @@ In my free time, I am sharpening my Linux skills and playing around with my own 
 <a href='https://www.typescriptlang.org/'><img src='https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white' /></a>
 <a href='https://www.python.org/'><img src='https://img.shields.io/badge/Python-yellow?logo=python' /></a>
 <a href='https://www.postgresql.org/'><img src='https://img.shields.io/badge/Postgresql-blue?logo=postgresql&color=white' /></a>
-<a href='https://airflow.apache.org/'><img src='https://img.shields.io/badge/Airflow-black?logo=apacheairflow' /></a>
+<a href='https://www.java.com/en/'><img src='https://img.shields.io/badge/Java-orange?' /></a>
 <a href='https://spring.io/'><img src='https://img.shields.io/badge/Spring-blue?logo=spring&color=white' /></a>
+<a href='https://airflow.apache.org/'><img src='https://img.shields.io/badge/Airflow-grey?logo=apacheairflow' /></a>
+<a href='https://www.mongodb.com/'><img src='https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white' /></a>
+<a href='https://supabase.com/'><img src='https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white&color=darkgreen' /></a>
 
 <div align='center'>
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp3ZmpmcnhoZXc5c24zbjg3dGZveGZldWswNzFmZjl0eDNuNXV6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif' width=150 alt='cat-typing'/>
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQwdXEzdGNyY3lycDh5bHdpdnhpYzB2bmM5a3M1bTUycmc5amx4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif' width=150 alt='cat-typing'/>
 </div>
+
+I just cleared my AWS Cloud Certification ☁️🆒 and I now have a new appreciation for the operations side of things. All those networking classes in OpenFlow and bash scripting in Operating Systems class definitely falling into place now 🤯.
 
 ## 🔭 Projects
 **🌱 Project 1**
