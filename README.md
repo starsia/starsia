@@ -35,6 +35,9 @@ Built a web app to demonstrate the Chase Algorithm, frequently used in denormali
 **🚚 Project 3**
 I figured that if I wanted to work closely with data, I must learn how to transform and move it from place to place 🤔. I build a data engineering pipeline using Airflow by extracting data from OpenStreetMap, applying transformations and cleaning it before loading it into MongoDB. This was also dockerised. 
 
+**👾 Project 4**
+Buckle up, this one was fun! My friend and I mad a game for you to play out scenarios for certain decisions you could make in university. It was made in Unity and C#, and it was a blast writing all the scripts and deciding on the storyline. Oh, we wrote all the paths ourselves, and used a great software called [Ink](https://www.inklestudios.com/ink/) to sort out the huge story tree we had created (yes, there were path loops and we had to keep track of player inventories too). I also set up the cloud authentication bit which saves your progress! It's deployed on Itch.io, and you can play it [here](https://starsia.itch.io/parallel-univus) 😄
+
 **👯 Hackathon?**
 I'm always down to commit a weekend or so! My last one was building AI plugins for Chrome to aid in quick translation and summaries of foreign text. 😃
 
