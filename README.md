@@ -16,30 +16,32 @@ Here are some ideas to get you started:
 ## About Me 👋
 I'm a software engineer specialising in full-stack development, database systems and data engineering. I have an interest in distributed systems applications, streaming and database systems. 
 
-In my free time, I am sharpening my Linux skills and playing around with my own Virtual Private Server!
+More recently, I cleared my AWS Cloud Certification ☁️🆒 and I now have a new appreciation for the operations side of things. All those networking classes in OpenFlow and bash scripting in Operating Systems class are falling into place now 🤯!
+
+In my free time, I am sharpening my Linux skills and playing around with my own Virtual Private Server! 
 
 ## Tech Stack
-<a href='https://react.dev/'><img src='https://img.shields.io/badge/React-grey?logo=react' /></a>
-<a href='https://www.typescriptlang.org/'><img src='https://img.shields.io/badge/Typescript-blue?logo=typescript&logoColor=white' /></a>
-<a href='https://www.python.org/'><img src='https://img.shields.io/badge/Python-yellow?logo=python' /></a>
-<a href='https://www.postgresql.org/'><img src='https://img.shields.io/badge/Postgresql-blue?logo=postgresql&color=white' /></a>
-<a href='https://www.java.com/en/'><img src='https://img.shields.io/badge/Java-orange?' /></a>
-<a href='https://spring.io/'><img src='https://img.shields.io/badge/Spring-blue?logo=spring&color=white' /></a>
-<a href='https://airflow.apache.org/'><img src='https://img.shields.io/badge/Airflow-grey?logo=apacheairflow' /></a>
-<a href='https://www.mongodb.com/'><img src='https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white' /></a>
-<a href='https://supabase.com/'><img src='https://img.shields.io/badge/Supabase-green?logo=supabase&logoColor=white&color=darkgreen' /></a>
+<a href='https://react.dev/'><img src='https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react' /></a>
+<a href='https://www.typescriptlang.org/'><img src='https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white' /></a>
+<a href='https://nodejs.org/en'><img src='https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white&color=darkgreen' /></a>
+<a href='https://www.python.org/'><img src='https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python' /></a>
+<a href='https://www.postgresql.org/'><img src='https://img.shields.io/badge/Postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white' /></a>
+<a href='https://www.java.com/en/'><img src='https://img.shields.io/badge/Java-orange?style=for-the-badge&' /></a>
+<a href='https://spring.io/'><img src='https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white' /></a>
+<a href='https://airflow.apache.org/'><img src='https://img.shields.io/badge/Airflow-blue?style=for-the-badge&logo=apacheairflow&logoColor=white' /></a>
+<a href='https://www.mongodb.com/'><img src='https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white' /></a>
+<a href='https://supabase.com/'><img src='https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&color=darkgreen' /></a>
+<a href='https://firebase.google.com/'><img src='https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=yellow' /></a>
 
 <div align='center'>
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp3ZmpmcnhoZXc5c24zbjg3dGZveGZldWswNzFmZjl0eDNuNXV6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif' width=150 alt='cat-typing'/>
   <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQwdXEzdGNyY3lycDh5bHdpdnhpYzB2bmM5a3M1bTUycmc5amx4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif' width=150 alt='cat-typing'/>
 </div>
 
-I just cleared my AWS Cloud Certification ☁️🆒 and I now have a new appreciation for the operations side of things. All those networking classes in OpenFlow and bash scripting in Operating Systems class definitely falling into place now 🤯.
-
 ## 🔭 Projects
 **🌱 Project 1**
 
-We built a full-stack application for the Mandai Raffles' Banded Langur project! This was the project that I'm the proudest of as it demonstrated the real impact of what software engineering could do for the scientific community. I implemented core features including offline functionality with service workers, mapping functionality with Leaflet.js, database deployment to Firebase and API documentation with Swagger UI. Pretty swaggy but one thing I would've liked to explore further was mobile deployment, as there simply wasn't enough time. 
+We built a full-stack application for the Mandai Raffles' Banded Langur (super rare endangered pokemon) project! This was the project that I'm the proudest of as it demonstrated the real impact of what software engineering could do for the scientific community. I implemented core features including offline functionality with service workers, mapping functionality with Leaflet.js, database deployment to Firebase and API documentation with Swagger UI. Pretty swaggy but one thing I would've liked to explore further was mobile deployment, perhaps an extension for another time. 
 
 **📊 Project 2** 
 
