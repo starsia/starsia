@@ -5,7 +5,7 @@ More recently, I cleared my AWS Cloud Certification ☁️🆒 and I now have a 
 
 In my free time, I am sharpening my Linux skills and playing around with my own Virtual Private Server! 
 
-## Tech Stack
+### Tooling and skills
 <a href='https://react.dev/'><img src='https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react' /></a>
 <a href='https://www.typescriptlang.org/'><img src='https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white' /></a>
 <a href='https://nodejs.org/en'><img src='https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=white&color=darkgreen' /></a>
@@ -17,11 +17,6 @@ In my free time, I am sharpening my Linux skills and playing around with my own 
 <a href='https://www.mongodb.com/'><img src='https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white' /></a>
 <a href='https://supabase.com/'><img src='https://img.shields.io/badge/Supabase-green?style=for-the-badge&logo=supabase&logoColor=white&color=darkgreen' /></a>
 <a href='https://firebase.google.com/'><img src='https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=yellow' /></a>
-
-<div align='center'>
-  <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGp3ZmpmcnhoZXc5c24zbjg3dGZveGZldWswNzFmZjl0eDNuNXV6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif' width=150 alt='cat-typing'/>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQwdXEzdGNyY3lycDh5bHdpdnhpYzB2bmM5a3M1bTUycmc5amx4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif' width=150 alt='cat-typing'/>
-</div>
 
 ## 🔭 Projects
 **🌱 Project 1**
